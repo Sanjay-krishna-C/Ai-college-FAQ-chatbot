@@ -5,14 +5,16 @@ from pydantic import BaseModel, Field
 class ChatSourceItem(BaseModel):
     """
     Metadata for retrieved institutional documents supporting an answer.
-    Extensible for RAG citations in Phase 6.
+    Preserves document name, page, regulation, and snippet citations.
     """
-    title: str = Field(..., description="Document or section title")
-    source_file: str = Field(..., description="Name of the PDF file in dataset")
+    document_name: str = Field(..., description="Name of the PDF document or title")
+    source_file: Optional[str] = Field(None, description="Source PDF filename in dataset")
+    title: Optional[str] = Field(None, description="Document or section title")
     page_number: Optional[int] = Field(None, description="Page number of citation")
+    regulation: Optional[str] = Field(None, description="Regulation version (e.g. R2026, R2021)")
     clause_reference: Optional[str] = Field(None, description="Clause or regulation number (e.g. Clause 14.2)")
     snippet: Optional[str] = Field(None, description="Relevant excerpt from document")
-    relevance_score: Optional[float] = Field(None, description="Similarity score")
+    relevance_score: Optional[float] = Field(None, description="Similarity / relevance score")
 
 
 class ChatRequest(BaseModel):
@@ -31,6 +33,6 @@ class ChatResponse(BaseModel):
     """
     answer: str = Field(..., description="Generated answer text")
     sources: List[ChatSourceItem] = Field(default_factory=list, description="Citations and referenced documents")
-    mode: str = Field(default="development", description="Execution mode: development, mock, or rag_live")
+    mode: str = Field(default="rag_gemini", description="Execution mode: development, mock, or rag_gemini")
     confidence: Optional[float] = Field(None, description="Answer confidence score")
     session_id: Optional[str] = Field(None, description="Conversation session ID")

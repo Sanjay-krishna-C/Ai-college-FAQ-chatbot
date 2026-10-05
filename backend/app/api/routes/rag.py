@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 from app.core.config import settings
 from app.core.logging import logger
 from app.rag.vector_store import ChromaVectorStore
-from app.rag.embeddings import GeminiEmbeddingService
+from app.rag.embeddings import GeminiEmbeddingService, GeminiEmbeddingError
 
 router = APIRouter(prefix="/rag", tags=["RAG Inspection & Debug"])
 
@@ -17,8 +17,10 @@ class RAGStatsResponse(BaseModel):
     collection_name: str
     document_count: int
     chunk_count: int
-    embedding_status: str
+    embedding_dimension: int
+    embedding_provider: str
     embedding_model: str
+    embedding_status: str
     persist_directory: str
 
 
@@ -50,7 +52,8 @@ class RAGSearchResponse(BaseModel):
 @router.get("/stats", response_model=RAGStatsResponse)
 async def get_rag_stats():
     """
-    Development endpoint to inspect ChromaDB collection size, chunk count, and embedding status.
+    Inspection endpoint reporting active collection name, chunk count,
+    detected embedding dimension, provider, and model details.
     """
     try:
         raw_stats = vector_store.get_stats()
@@ -58,10 +61,12 @@ async def get_rag_stats():
 
         return RAGStatsResponse(
             collection_name=raw_stats["collection_name"],
-            document_count=13,  # Verified primary institutional documents
+            document_count=13,
             chunk_count=raw_stats["total_chunks"],
-            embedding_status=emb_status,
+            embedding_dimension=raw_stats.get("embedding_dimension", 0),
+            embedding_provider="Google Gemini",
             embedding_model=settings.EMBEDDING_MODEL,
+            embedding_status=emb_status,
             persist_directory=raw_stats["persist_directory"]
         )
     except Exception as exc:
@@ -75,12 +80,17 @@ async def get_rag_stats():
 @router.post("/search", response_model=RAGSearchResponse)
 async def search_rag(request: RAGSearchRequest):
     """
-    Development search endpoint to test ChromaDB retrieval quality without invoking LLM synthesis.
+    Development search endpoint using Gemini embeddings to query ChromaDB collection.
+    Requires GEMINI_API_KEY to generate query embeddings.
     """
+    if not embedding_service.is_configured():
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="GEMINI_API_KEY is not configured in backend/.env. Query embeddings require a valid Gemini API key."
+        )
+
     try:
-        query_embedding = None
-        if embedding_service.is_configured():
-            query_embedding = embedding_service.embed_query(request.query)
+        query_embedding = embedding_service.embed_query(request.query)
 
         filter_criteria = None
         if request.regulation_filter:
@@ -90,7 +100,6 @@ async def search_rag(request: RAGSearchRequest):
 
         matches = vector_store.search_similar(
             query_embedding=query_embedding,
-            query_text=request.query if query_embedding is None else None,
             top_k=request.top_k,
             filter_criteria=filter_criteria
         )
@@ -118,6 +127,12 @@ async def search_rag(request: RAGSearchRequest):
             results=formatted_items
         )
 
+    except GeminiEmbeddingError as emb_err:
+        logger.error(f"Embedding error during RAG search: {emb_err}")
+        raise HTTPException(
+            status_code=status.HTTP_502_BAD_GATEWAY,
+            detail=f"Gemini embedding error: {str(emb_err)}"
+        )
     except Exception as exc:
         logger.error(f"Error executing RAG search: {exc}", exc_info=True)
         raise HTTPException(

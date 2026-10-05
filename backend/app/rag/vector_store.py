@@ -11,7 +11,8 @@ from app.rag.chunking import DocumentChunk
 class ChromaVectorStore:
     """
     Persistent ChromaDB vector store manager for CampusAI institutional knowledge.
-    Ensures persistent storage, deterministic upserting (idempotency), and metadata querying.
+    Ensures persistent storage, deterministic upserting (idempotency), strict vector dimension
+    isolation between legacy and Gemini collections, and metadata querying.
     """
 
     def __init__(
@@ -32,33 +33,53 @@ class ChromaVectorStore:
         )
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
-            metadata={"description": "Official Bannari Amman Institute of Technology knowledge collection"}
+            metadata={
+                "description": "CampusAI Official Institutional Knowledge Collection (Gemini RAG)",
+                "created_for": "CampusAI College Assistant",
+                "embedding_model": settings.EMBEDDING_MODEL
+            }
         )
 
     def get_stats(self) -> Dict[str, Any]:
         """
-        Return current collection statistics for inspection.
+        Return current collection statistics including chunk count and detected vector dimension.
         """
         count = self.collection.count()
+        embedding_dim = 0
+
+        if count > 0:
+            sample = self.collection.get(limit=1, include=["embeddings"])
+            embeddings = sample.get("embeddings")
+            if embeddings is not None and len(embeddings) > 0 and embeddings[0] is not None:
+                embedding_dim = len(embeddings[0])
+
         return {
             "collection_name": self.collection_name,
             "persist_directory": str(self.persist_dir),
             "total_chunks": count,
+            "embedding_dimension": embedding_dim,
             "status": "ready"
         }
 
     def upsert_chunks(
         self,
         chunks: List[DocumentChunk],
-        embeddings: Optional[List[List[float]]] = None,
+        embeddings: List[List[float]],
         batch_size: int = 100
     ) -> int:
         """
-        Idempotently insert or update document chunks with their metadata and embeddings.
+        Idempotently insert or update document chunks with their metadata and Gemini embeddings.
         Prevents duplicate entries when re-running ingestion.
+        Strictly requires embeddings to be provided; never falls back to local ONNX default models.
         """
         if not chunks:
             return 0
+
+        if not embeddings or len(embeddings) != len(chunks):
+            raise ValueError(
+                f"Gemini embeddings must be provided for all {len(chunks)} chunks in collection '{self.collection_name}'. "
+                f"Received {len(embeddings) if embeddings else 0} embeddings. Automatic local embedding fallback is disabled."
+            )
 
         total_stored = 0
 
@@ -67,51 +88,47 @@ class ChromaVectorStore:
             batch_ids = [c.chunk_id for c in chunk_batch]
             batch_docs = [c.text for c in chunk_batch]
             batch_metas = [c.to_metadata() for c in chunk_batch]
-            batch_embeddings = embeddings[i:i + batch_size] if embeddings else None
+            batch_embeddings = embeddings[i:i + batch_size]
 
-            if batch_embeddings:
-                self.collection.upsert(
-                    ids=batch_ids,
-                    documents=batch_docs,
-                    metadatas=batch_metas,
-                    embeddings=batch_embeddings
-                )
-            else:
-                self.collection.upsert(
-                    ids=batch_ids,
-                    documents=batch_docs,
-                    metadatas=batch_metas
-                )
+            self.collection.upsert(
+                ids=batch_ids,
+                documents=batch_docs,
+                metadatas=batch_metas,
+                embeddings=batch_embeddings
+            )
 
             total_stored += len(chunk_batch)
 
-        logger.info(f"Upserted {total_stored} chunks into collection '{self.collection_name}' (Total in DB: {self.collection.count()})")
+        logger.info(
+            f"Upserted {total_stored} chunks into collection '{self.collection_name}' "
+            f"(Total in collection: {self.collection.count()})"
+        )
         return total_stored
 
     def search_similar(
         self,
-        query_embedding: Optional[List[float]] = None,
-        query_text: Optional[str] = None,
+        query_embedding: List[float],
         top_k: int = 5,
         filter_criteria: Optional[Dict[str, Any]] = None
     ) -> List[Dict[str, Any]]:
         """
-        Retrieve top_k most similar document chunks matching query vector or text.
+        Retrieve top_k most similar document chunks matching Gemini query vector.
+        Strictly requires pre-computed query_embedding to guarantee Gemini embedding usage.
         """
+        if query_embedding is None or not query_embedding:
+            raise ValueError(
+                f"Query embedding generated by Gemini is required for searching '{self.collection_name}'. "
+                f"Un-embedded text search is disabled for the Gemini collection."
+            )
+
         kwargs: Dict[str, Any] = {
+            "query_embeddings": [query_embedding],
             "n_results": top_k,
             "include": ["documents", "metadatas", "distances"]
         }
 
         if filter_criteria:
             kwargs["where"] = filter_criteria
-
-        if query_embedding is not None:
-            kwargs["query_embeddings"] = [query_embedding]
-        elif query_text is not None:
-            kwargs["query_texts"] = [query_text]
-        else:
-            raise ValueError("Either query_embedding or query_text must be provided.")
 
         results = self.collection.query(**kwargs)
 

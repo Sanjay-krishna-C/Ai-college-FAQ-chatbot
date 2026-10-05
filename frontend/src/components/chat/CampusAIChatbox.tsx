@@ -6,15 +6,14 @@ import {
   ArrowRight,
   ShieldCheck,
   Sparkles,
-  BookOpen,
   AlertCircle,
   RotateCcw,
   Loader2,
-  FileText,
   ChevronDown,
   ChevronUp,
 } from "lucide-react";
 import { sendChatMessage, type ChatResponse, type ChatSource } from "@/lib/api";
+import { CleanAnswerRenderer } from "./CleanAnswerRenderer";
 
 const SUGGESTED_QUESTIONS = [
   "What is the attendance requirement?",
@@ -206,71 +205,46 @@ export function CampusAIChatbox({ initialQuery = "", autoFocus = false }: Campus
             {/* Generated Answer */}
             {response && !loading && (
               <div>
-                <div className="prose max-w-none text-body text-slate-700 leading-relaxed whitespace-pre-line mb-6 font-normal">
-                  {response.answer}
+                {/* Direct Answer Presentation */}
+                <div className="mb-4">
+                  <CleanAnswerRenderer content={response.answer} />
                 </div>
 
-                {/* Sources Section */}
-                {response.sources && response.sources.length > 0 ? (
-                  <div className="pt-4 border-t border-slate-200">
-                    <div className="flex items-center justify-between mb-3">
-                      <div className="flex items-center gap-2">
-                        <BookOpen className="w-4 h-4 text-gold-600" />
-                        <span className="text-body-sm font-semibold text-navy-900">
-                          {response.sources.length === 1 ? "Source Citation:" : "Source Citations:"}
-                        </span>
-                      </div>
+                {/* Minimal Collapsed-by-Default Sources Section */}
+                {response.sources && response.sources.length > 0 && (
+                  <div className="pt-3 border-t border-slate-200 mt-4">
+                    <button
+                      type="button"
+                      onClick={() => setExpandedSources(!expandedSources)}
+                      className="inline-flex items-center gap-1.5 text-caption font-medium text-slate-500 hover:text-navy-800 transition-colors cursor-pointer select-none"
+                      aria-expanded={expandedSources}
+                    >
+                      <span>Sources</span>
+                      <span className="text-[11px] px-1.5 py-0.2 bg-slate-100 text-slate-600 rounded-full font-semibold">
+                        {response.sources.length}
+                      </span>
+                      {expandedSources ? <ChevronUp className="w-3.5 h-3.5" /> : <ChevronDown className="w-3.5 h-3.5" />}
+                    </button>
 
-                      <button
-                        type="button"
-                        onClick={() => setExpandedSources(!expandedSources)}
-                        className="text-caption text-navy-700 hover:text-navy-900 font-medium inline-flex items-center gap-1 cursor-pointer"
-                      >
-                        <span>{expandedSources ? "Hide excerpts" : "Show document excerpts"}</span>
-                        {expandedSources ? <ChevronUp className="w-3.5 h-3.5" /> : <ChevronDown className="w-3.5 h-3.5" />}
-                      </button>
-                    </div>
-
-                    <div className="space-y-2">
-                      {response.sources.map((src: ChatSource, idx: number) => (
-                        <div
-                          key={`${src.document_name}-${src.page_number || idx}`}
-                          className="p-3 bg-slate-50 hover:bg-slate-100/80 rounded-lg border border-slate-200 transition-colors"
-                        >
-                          <div className="flex flex-wrap items-center justify-between gap-2">
-                            <div className="flex items-center gap-2">
-                              <FileText className="w-4 h-4 text-slate-500 shrink-0" />
-                              <span className="text-body-sm font-medium text-navy-900">
-                                {src.document_name}
+                    {expandedSources && (
+                      <div className="mt-2.5 space-y-1.5 pl-2.5 border-l-2 border-slate-200">
+                        {response.sources.map((src: ChatSource, idx: number) => (
+                          <div
+                            key={`${src.document_name}-${src.page_number || idx}`}
+                            className="text-caption text-slate-600 flex flex-wrap items-baseline gap-1.5 py-0.5"
+                          >
+                            <span className="text-slate-400">•</span>
+                            <span className="font-medium text-slate-800">{src.document_name}</span>
+                            {src.page_number && <span className="text-slate-500">— Page {src.page_number}</span>}
+                            {src.regulation && (
+                              <span className="text-[11px] px-1.5 py-0.2 bg-navy-50 text-navy-700 font-medium rounded">
+                                {src.regulation}
                               </span>
-                            </div>
-
-                            <div className="flex items-center gap-2 text-caption">
-                              {src.regulation && (
-                                <span className="px-2 py-0.5 bg-navy-100 text-navy-800 font-semibold rounded">
-                                  {src.regulation}
-                                </span>
-                              )}
-                              {src.page_number && (
-                                <span className="px-2 py-0.5 bg-gold-100 text-gold-800 font-medium rounded">
-                                  Page {src.page_number}
-                                </span>
-                              )}
-                            </div>
+                            )}
                           </div>
-
-                          {expandedSources && src.snippet && (
-                            <p className="mt-2 text-caption text-slate-600 bg-white p-2.5 rounded border border-slate-200 font-mono text-[12px] leading-relaxed">
-                              &ldquo;{src.snippet}&rdquo;
-                            </p>
-                          )}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                ) : (
-                  <div className="pt-3 border-t border-slate-200 text-caption text-slate-500 italic">
-                    No official document citations matched this inquiry.
+                        ))}
+                      </div>
+                    )}
                   </div>
                 )}
               </div>

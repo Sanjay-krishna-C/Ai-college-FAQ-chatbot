@@ -1,0 +1,1704 @@
+
+--- PAGE 1 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+1 
+ 
+BANNARI AMMAN INSTITUTE OF TECHNOLOGY 
+(An Autonomous Institution Affiliated to Anna University, Chennai) 
+Sathyamangalam - 638 401, Tamil Nadu, India 
+REGULATIONS 2026 
+CHOICE BASED CREDIT SYSTEM (CBCS) 
+(Applicable to all B.E. and B.Tech. Degree Programmes) 
+The Regulations 2026 have been framed in accordance with the guidelines, regulations, and 
+directives issued by the University Grants Commission (UGC), the All India Council for 
+Technical Education (AICTE) and the affiliating University, incorporating the p rovisions of 
+the Choice Based Credit System (CBCS).The Regulations 2026 shall apply to candidates 
+admitted to the Bachelor of Engineering (B.E.) and Bachelor of Technology (B.Tech.) Degree 
+Programmes of the Institution from the Academic Year 2026 -2027 onwa rds under Regular 
+Admission and from the Academic Year 2027-2028 onwards under Lateral Entry Admission. 
+ 
+The Regulations, Curriculum and Syllabi contained herein shall be subject to revision, 
+amendment, modification, or change from time to time as may be n ecessitated by the 
+regulations, guidelines, notifications, directions, or policies issued by the University Grants 
+Commission (UGC), the All India Council for Technical Education (AICTE), the affiliating 
+University, Government authorities, and other statutory bodies, or as may be approved by the 
+Academic Council of the Institution. Such revisions, amendments, modifications, or changes 
+shall be effective from the date prescribed by the competent authority and shall apply to such 
+batches of students, includin g those already admitted to the programme, as may be specified 
+by the Academic Council. 
+ 
+ 
+ 
+ 
+  
+
+--- PAGE 2 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+2 
+ 
+1 ADMISSION 
+ 
+Candidate, seeking admission to the B.E./B.Tech. Programme, shall satisfy the 
+conditions of admission prescribed by the Directorate of Technical Education (DoTE) 
+and Anna University, Chennai as given below 
+ 1.1 Regular Admission 
+  
+Candidates, for admission to the first semester of the eight semesters 
+B.E./B.Tech. Degree Programmes, shall be required to have passed:  
+ Higher Secondary Examination (10 +2) of curriculum (Regular Academic 
+Stream) prescribed by the Government of Tamil Nadu with Mathematics, 
+Physics and Chemistry as three of the four subjects of the study prescribed 
+under Part-III or any other examinations of any Board or University or 
+authority accepted by the Syndicate of the University / DoTE, Chennai as 
+equivalent thereto. 
+(or) 
+ Should have passed Higher Secondary Examination of Vocational Stream 
+(Engineering/Technology), prescribed by the Government of Tamil Nadu. 
+ 1.2 Lateral Entry Admission 
+  
+Candidates who possess a Diploma in Engineering or Technology awarded by 
+the State Board of Technical Education and Training, Tamil Nadu, or an 
+equivalent qualification recognized by the competent authority shall be 
+eligible for admission dir ectly to the Third Semester of the B.E. / B.Tech. 
+Degree Programmes in the appropriate branch of study, subject to the 
+eligibility criteria prescribed by the Directorate of Technical Education 
+(DoTE) from time to time. 
+(or) 
+Candidates who possess a Bachelor's Degree in Science (B.Sc.) under the 
+10+2+3 pattern, with Mathematics as a subject of study, shall be eligible for 
+admission directly to the third Semester of the B.E. / B.Tech. Degree 
+Programmes, subject to the eligibility criteria prescribed by the Directorate of 
+Technical Education (DoTE) from time to time. Such candidates shall undergo 
+
+--- PAGE 3 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+3 
+ 
+two additional Engineering courses, one each during the third and fourth 
+Semesters, as bridge courses, as prescribed by the Institution. 
+2 PROGRAMMES OFFERED 
+ 
+A candidate may be offered admission to any one of the programmes offered by the      
+Institution for the candidates specified in Clause 1.1 and as per the eligibility criteria of 
+DoTE for the candidates under Clause 1.2 from the list given below: 
+B. E. Programmes  
+1. Computer Science and Engineering 
+2. Electrical and Electronics Engineering  
+3. Electronics and Communication Engineering 
+4. Electronics and Instrumentation Engineering 
+5. Mechanical Engineering 
+6. Mechatronics Engineering 
+B. Tech.  Programmes 
+1. Agricultural Engineering 
+2. Artificial Intelligence and Data Science 
+3. Biotechnology 
+4. Information Technology 
+3 STRUCTURE OF THE PROGRAMME 
+ 
+3.1 Every programme shall have a distinct curriculum with syllabi consisting of 
+theory, laboratory, project, soft-skills and personality development courses, as 
+prescribed by the respective Boards of Studies, broadly categorized under: 
+i. Basic Science (BS) courses including Mathematics, Physics, Chemistry and 
+further specialization in these subjects 
+ii. Engineering Science (ES) courses including Engineering Graphics, Basics 
+of Electrical / Electronics / Mechanical, Engineering Mechanics and Computer 
+Programming. 
+iii. Humanities and Social Sciences (HSS)  courses including Language 
+Courses, Management Courses, Soft Skills and Professional Ethics. 
+iv. Professional Courses (PC)  include Professional Core (PC), Professional 
+Electives (PE) and Open Electives (OE).    
+
+--- PAGE 4 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+4 
+ 
+v. Employability Enhancement Courses (EEC) includes Project Work, Mini 
+Project and /or Internship, Seminar, Industrial / Practical Training, Startup 
+Management, Value Added and Certificate Courses. 
+The medium of instruction, examination, seminar presentations, project work, 
+and all other academic activities associated with the programme shall be 
+English, except for courses specifically approved to be offered in Tamil.            
+ 
+3.2 Each course is normally assigned a certain number of credits based on the 
+following. 
+Contact period per week Credit(s) 
+1 Lecture / 1 Tutorial period 1 
+2 laboratory Periods (Laboratory / Seminar / Project Work 
+/ etc.) 1 
+ 
+ 
+3.3 Every student shall complete eight elective cou rses from the list of electives 
+prescribed in the curriculum. Students may register for Professional Elective 
+courses offered within their parent discipline during Semesters V to VII, 
+subject to the fulfilment of the prescribed prerequisites for the respective 
+courses. 
+ 
+3.4 Out of the eight elective courses, every student shall be required to opt for a 
+minimum of two Open Elective courses from the list of electives offered by 
+departments other than the student's parent discipline, provided that the 
+prescribed prerequisites for the respe ctive courses are satisfied. The course 
+content of such Open Elective courses shall not form part of the curriculum 
+and syllabi of the student's parent programme of study.  
+ 
+3.5 Industry Oriented Course (IOC) 
+Industry Oriented Course (IOC) of 15 –20 hours duration shall be offered 
+during Semester VI by industry experts on specialised, contemporary and 
+industry-relevant topics. Students may also register for an IOC offered by 
+other departments, subject to fulfilling the prescribed prerequisites, if any. 
+The course content shall be prepared by the industry expert in consultation 
+with the department and shall preferably focus on practical, multidisciplinary 
+and industry -relevant applications, including case studies, standards, 
+certifications and emerging techno logies. A faculty coordinator shall be 
+nominated by the department to coordinate the IOC. 
+
+--- PAGE 5 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+5 
+ 
+The sessions shall be conducted by the industry expert in physical or hybrid 
+mode at suitable timings based on the availability of the expert. The faculty 
+coordinator shall attend all sessions and maintain the attendance record. The 
+batch size shall preferably be below 75 students. 
+Student performance shall be assessed through two Internal Evaluations (IEs) 
+with equal weightage, conducted at the middle and end of the IOC. The 
+assessment may include quizzes, assignments, case studies, projects, 
+presentations or other suitable methods. No End Semester Examination shall 
+be conducted.  
+ 
+3.6 A student may register for one Self -Study Elective per semester, over and 
+above the elective courses prescribed in the curriculum, from any branch of 
+Engineering or Technology, commencing from Semester V onwards, provided 
+that the student has secured a Cumulative Grade Point Average (CGPA) of 
+8.50 or above up to the preceding semester a nd has no current arrears. The 
+credits earned through Self-Study Electives shall be indicated separately in the 
+Grade Sheet as additional credits. However, such credits shall not be 
+considered for the computation of the Cumulat ive Grade Point Average 
+(CGPA). 
+ 
+3.7 A student may be permitted to earn credits through a maximum of three online 
+courses, subject to a maximum of Nine (9) credits during the entire 
+programme, with the approval of the Departmental Consultative Committee. 
+For the purpose of credit transfer and exemption, the Head of the Institution 
+shall constitute a three -member committee comprising the Head of the 
+Department concerned and two senior faculty members. The Committee shall 
+verify that the online course proposed by the student has not already been 
+completed by the student and is not substantially equivalent to any 
+Professional Core, Professional Elective, or Open  Elective course already 
+completed or to be completed as part of the curriculum. 
+The online cours es shall be chosen from SWAYAM / NPTEL as may be 
+approved by the Institution, provided that the offering organization conducts a 
+proctored examination and awar ds marks and credits. A student may avail 
+exemption for a maximum of Nine (9) credits during the entire programme in 
+
+--- PAGE 6 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+6 
+ 
+lieu of Professional Elective and/or Open Elective courses, subject to the 
+approval of the equivalence committee. 
+The credits earned throug h such online courses shall be transferred to the 
+student's academic record. The marks obtained shall be converted into grades 
+in accordance with the grading norms prescribed by the Institution and shall 
+be considered for the computation of SGPA and CGPA, provided that the 
+student has successfully completed the course and satisfied the passing 
+requirements prescribed by the offering organization. 
+For online courses the following grading pattern is applicable in case of credit 
+transfer and CGPA calculations: 
+Range of percentage of total marks Letter Grade Grade Point 
+91 - 100 S 10 
+81 - 90 A+ 9 
+71 – 80 A 8 
+61 - 70 B+ 7 
+51 - 60 B 6.5 
+46-50 C+ 6 
+40-45 C 5 
+< 40 U 0 
+ 
+ 3.8 Industrial Training / Internship 
+  
+Students may undergo Industrial Training or Internship during the summer or 
+winter vacation for the duration specified in the table below. The credits earned 
+through such Industrial Training or Internship shall be recorded in the Grade 
+Sheet. A student who  earns three credits through Industrial Training or 
+Internship may be permitted to avail exemption from one Professional Elective 
+course, subject to the approval of the Departmental Consultative Committee 
+and the equivalence norms prescribed by the Institution. If a student earns one 
+or two credits through Industrial Training or Internship, such credits shall be 
+recorded in the Grade Sheet but shall not be considered for the classification 
+of the degree. Students may also undergo Internship at a Research 
+
+--- PAGE 7 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+7 
+ 
+Organization, University, National Laboratory, or other approved Institution 
+during the summer or winter vacation, subject to the prior approval of the 
+Departmental Consultative Committee. 
+Duration of Training / Internship Credit(s) 
+2 Weeks 1 
+4 Weeks 2 
+6 Weeks 3 
+ 
+ 3.9 Choice of Professional Elective Courses 
+  
+Professional Elective (PE) Courses shall be selected in the specialised groups 
+given as verticals. Students shall choose the courses from various verticals as 
+specified in the respective curriculum. A student can choose all the PE Courses 
+either from one o f the verticals or a combination of courses from more than 
+one verticals in a semester.  
+For a Professional Elective or Open Elective course to be offered, a minimum 
+enrolment of ten students shall normally be required. This minimum enrolment 
+requirement shall not apply to students registered under the B.E. (Honours) / 
+B.Tech. (Honours) or B.E. Minor / B.Tech. Minor programmes.  
+ 3.10 Value Added Courses  
+  
+Value Added (VA) Courses are courses that are not included in the prescribed 
+curriculum of the respective programme and are offered to provide additional 
+value by enhancing the knowledge, skills, and employability of students. The 
+successful completion of Value Added Course(s) shall not be mandatory for 
+the award of the degree or for the successful completion of the programme.  
+ 3.11 Induction Programme 
+  
+The students shall undergo a mandatory induction programme comprising of 
+lectures by eminent people, visits to various departments and ice -breaking 
+events within department / branch immediately after getting admitted in the 
+respective Institution. 
+
+--- PAGE 8 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+8 
+ 
+Induction Programme aimed at offering the incoming students, an interface to 
+understand and interact with the diverse student community in the respective 
+Institute. The objectives of this induction programme include: 
+ Welcoming and orienting the new students. 
+ Guiding the new students about life at respective Institute and 
+its activities, college fests, etc. 
+ Providing academic guidance to the students. 
+ Enforcing the anti-ragging rule. 
+On the whole, the Induction Programme aims to provide the incoming students 
+with a cordial environment to make their transition to the Higher Education 
+system as smooth as possible. 
+ 
+4 DURATION OF THE PROGRAMME 
+ 4.1 Regular Admission 
+  
+The duration of the programme shall be four academic years consisting of 
+eight semesters for students admitted under Clause 1.1 of these Regulations. 
+A student shall complete all the requirements prescribed in the curriculum and 
+these Regulations within the stipulated duration of four years. 
+ 4.2 Lateral Entry Admission 
+  
+The duration of the programme shall be three academic years consisting of six 
+semesters for students admitted under Clause 1.2 of these Regulations. A 
+student shall complete all the requirements prescribed in the curriculum and 
+these Regulations within the stipulated duration of three years 
+ 4.3 Extension of Programme Duration 
+  
+The duration specified in Clauses 4.1 and 4.2 may be extended by one 
+additional year for students who are permitted to avail an authorized break of 
+study (clause 14) or who have been permitted to drop courses(vide clause 5.6)  
+in accordance with these Regulations. 
+ 4.4 Programme Completion 
+  
+For the purpose of these Regulations, “Programme Completion” shall mean 
+that a student has undergone all the courses prescribed in the curriculum and 
+has become eligible to appear for the End Semester Examinations of all the 
+courses within the duration specified in Clauses 4.1, 4.2, and 4.3, as applicable. 
+
+--- PAGE 9 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+9 
+ 
+ 4.5 Maximum Duration for Completion of the Programme 
+  
+A student who has completed the programme but has arrears shall be permitted 
+to complete the remaining course(s) within the following maximum period: 
+a) Seven years from the date of commencement of the programme for students 
+admitted under Clause 1.1; and 
+b) Six years from the date of commencement of the programme for stu dents 
+admitted under Clause 1.2. 
+ 4.6 Prevention Due to Shortage of Attendance 
+  
+When a student is prevented from appearing for the End Semester 
+Examinations of all the courses in a semester due to shortage of attendance, 
+such period shall be treated as a break in the programme. The total duration 
+for successful completion of the programme , including all such periods of 
+prevention, shall not exceed seven years for students admitted under Clause 
+1.1 and six years for students admitted under Clause 1.2. 
+ 4.7 Semester Duration and Remedial Classes 
+  
+Each semester shall consist of minimum 75 working days. Head of the 
+Department shall ensure that every faculty member teaches the course as 
+prescribed in the approved curriculum and syllabi. 
+Special Theory / Practical Sessions may be conducted for students who require 
+additional inputs (remedial c lasses) over and above the number of periods 
+normally specified, as decided by the Head of the Department, within the 
+specified duration of the semester / programme. 
+ 
+5 COURSE ENROLLMENT AND REGISTRATION 
+ 5.1 Faculty Mentor 
+  
+Upon admission, every student shall be assigned a Faculty Mentor (refer 
+Clause 7) who shall guide and counsel the student regarding the academic 
+programme, course registration, academic progression, and career objectives, 
+taking into account the student's academic background and aspirations. 
+ 5.2 Course Registration 
+  
+Every student shall register for all courses prescribed in the curriculum for the 
+relevant semester, subject to the provisions relating to course dropping as 
+specified in  Clause 5.6. Courses dropped in earlier semesters may be 
+
+--- PAGE 10 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+10 
+ 
+registered in subsequent semesters when they are offered. Every student shall 
+provisionally enrol for the courses of the succeeding semester during the 
+current semester and shall confirm such enrolment by complet ing course 
+registration within the first 10 working days from the commencement of the 
+semester concerned. 
+ 5.3 Categories of Registration 
+  
+The courses registered by a student in a semester may include: 
+(i) Courses prescribed for the current semester; 
+(ii) Courses dropped in earlier semesters; 
+(iii) Additional courses, wherever permitted under these Regulations. 
+ 5.4 Maximum Credit Limit 
+  
+The maximum number of credits that may be registered in a semester shall be 
+30. The above limit shall not include courses registered under Honours/Minor 
+degree, Reappearance (RA) or Withdrawal (W) categories for the purpose of 
+appearing for the Semester End Examinations. 
+ 
+5.4.1 Additional Course Registration 
+From Semesters V to VIII, students may register for additional courses, 
+including courses prescribed under the B.E. (Honours) / B.Tech. (Honours) 
+and B.E. Minor / B.Tech. Minor programmes. The maximum number of 
+credits that may be registered in a semester,  including Honours and Minor 
+courses, shall not exceed 36 credits. Number of SWAYAM/NPTEL online 
+courses that can be registered shall not exceed ‘TWO ‘ per semester, subject 
+to a maximum credit of 36, in a semester. 
+ 5.5 Reappearance Registration 
+ 5.5.1 Theory Courses 
+ 
+ A student who fails in a theory course shall register for the reappearance 
+examination in the subsequent semester(s) or whene ver the course is offered 
+next. 
+ 5.5.2 Attendance Requirement for Reappearance Courses 
+ 
+ A student registering for a reappearance examination may attend the classes 
+for the course, if desired. However, the attendance requirements prescribed 
+under Clause 6 shall not apply to such reappearance registrations. 
+ 
+
+--- PAGE 11 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+11 
+ 
+ 5.5.3 Professional Elective and Open Elective Courses 
+ 
+ If a student fails in a Professional Elective or Open Elective course, the student 
+may register for the same course  or any other Professional or Open Elective 
+courses respectively in the subsequent semester. However the change of 
+elective course is permitted only once. 
+ 5.5.4 Repeat Registration 
+ 
+ Students registering for the any other Professional Elective or Open Elective 
+course under Clause 5.5.3 shall attend the classes, satisfy the attendance 
+requirements prescribed under Clause 6, earn Continuous Internal Assessment 
+marks, and appear for the Semester End Examination. 
+ 5.5.5 Courses Evaluated Through Continuous Internal Assessment 
+ 
+ A student who fails in a course evaluated wholly through Continuous Internal 
+Assessment shall register for and repeat the course when it is next offered, and 
+shall fulfill all requirements prescribed for the course. 
+ 5.5.6 Prevention Due to Shortage of Attendance 
+  
+A student who is prevented from appearing for the Semester End 
+Examinations of all the courses in a  semester due to shortage of attendance 
+shall repeat the semester when it is next offered. 
+ 5.6 Flexibility to add or Drop Courses 
+ 
+5.6.1 A student has to earn the total number of credits specified in the            
+Curriculum of the respective programme of study in order to be eligible  to 
+obtain the degree. However, if a student wishes, the student is permitted to 
+earn more than the total number of credits prescribed in the curriculum by 
+opting for one credit courses, self-study electives, or additional courses. 
+ 
+5.6.2 From the III to VII semesters (from IV to VII semesters in case of Lateral  
+entry students), the student has the option of registering for additional courses 
+or dropping existing courses. The total number of credits that a student can 
+add or drop is limited to 8, subject to a maximum of 2 courses  in a given 
+Semester. In such cases, the attendance requirement as stated in Clause 6 is 
+mandatory. 
+ 
+5.6.3 The student shall register Project work I in semester VII and Project work          
+II in semester VIII only. 
+
+--- PAGE 12 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+12 
+ 
+6 REQUIREMENTS FOR APPEARING FOR THE SEMESTER END 
+EXAMINATION OF A COURSE 
+ 
+A student who satisfies the attendance requirements prescribed under Clauses 6.1 and 
+6.2 shall be deemed eligible to appear for the Semester End Examinations of the 
+registered courses. 
+ 
+6.1 Attendance Requirement Every student shall attend all classes, laboratories, 
+tutorials, seminars, and other academic activities prescribed for the courses 
+registered during the semester. A student shall secure not less than 80% 
+aggregate attendance in the courses registered during the semester to become 
+eligible to appear for the Semester End Examinations. 
+ 6.2 Condonation of Attendance Shortage 
+  
+A student who secures attendance between 70% and less than 80% in the 
+aggregate during a semester may be granted condonation of shortage of 
+attendance on any of the following grounds: 
+(i)   Prolonged hospitalization; 
+(ii)  Accident or serious illness; 
+(iii) Participation in Institution, University, State, N ational, or International 
+level co-curricular or extracurricular activities, with prior approval of the 
+Head of the Department. 
+Such students shall submit the prescribed application for condonation together 
+with supporting medical certificates or participation certificates duly endorsed 
+by the Head of the Institution. The condonation application and supporting 
+documents shall be forwarded to the Office of the Controller of Examinations 
+for verification and approval. A student may avail attendance condonation in 
+not more than two semesters during the entire programme of study. 
+ 6.3 Eligibility for Semester End Examination 
+  
+A student shall be permitted to appear for the Semester End Examinations of 
+the registered courses if the student: 
+(i) satisfies the attendance requirements prescribed under Clauses 6.1 and 6.2; 
+and 
+(ii) has registered for the examinations and paid  the prescribed examination 
+fee. 
+ 
+
+--- PAGE 13 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+13 
+ 
+ 6.4 Shortage of Attendance 
+  
+A student who secures less than 70% aggregate attendance in a semester and 
+does not satisfy the requirements prescribed under Clause 6.1 and 6.2 shall not 
+be permitted to appear for the Semester End Examinations and shall repeat the 
+semester when it is next offered, in accordance with the regulations in force. 
+ 6.5 Reappearance Registration 
+  
+The attendance requirements prescribed under Clauses 6.1 to 6.3 shall not 
+apply to students registering for reappearance examinations. However, such 
+students shall register for the examination and pay the prescribed examination 
+fee. 
+ 6.6 Improvement of Grades 
+  
+A student who has successfully completed and passed a course shall not be 
+permitted to reappear for the same course for the purpose of improving  the 
+grade obtained. 
+ 
+7 Faculty Mentor 
+ 
+To assist students in planning their academic programme and to provide guidance on 
+academic matters, the Head of the Department shall assign a group of students to a 
+faculty member of the Department, who shall function as the Faculty Mentor for those 
+students. The Faculty Mentor shall advise and guide the students in course registration, 
+reappearance registration, academic progression, and related matters. The Faculty 
+Mentor shall also monitor the attendance and academic performance of the students and 
+provide counselling and guidance, wherever necessary. The Faculty Mentor shall 
+periodically communicate with the parents/guardians regarding the academic progress, 
+attendance, and overall performance of the students. 
+The Faculty Mentor shall: 
+(i) inform studen ts about the academic facilities, support services, and various 
+curricular, co-curricular, and extracurricular activities available in the Institution; 
+(ii) guide students in course enrolment and registration in accordance with the 
+curriculum and regulations; 
+(iii) recommend and authorize the registration of courses at the beginning of each 
+semester; 
+
+--- PAGE 14 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+14 
+ 
+(iv) monitor the academic progress, attendance, and overall performance of the students 
+and counsel them periodically; 
+(v) assist students in identifying and overcoming academic difficulties; 
+(vi) facilitate effective communication between the students, parents/guardians, and the 
+Institution on matters relating to academic progress and student development. 
+ 
+8 COMMITTEES 
+ 8.1 Common Course Committee 
+  
+A theory course handled by more than one faculty member, including courses 
+offered to multiple divisions of a programme, shall have a Common Course 
+Committee. 
+The Common Course Committee shall comprise: 
+(i) all faculty members handling the course; 
+(ii) a Course Coordinator nominated by the Head of the Department in the case 
+of multiple divisions of a programme); and 
+(iii) student representatives, one from each specialization or division, 
+registered for the course during the current semester. 
+The first meeting of the Common Course Committee shall be held within 
+fifteen days from the commencement of the semester. Two additional 
+meetings shall be conducted during the semester at appropriate intervals. 
+During these meetings, the student representatives shall present t he views, 
+suggestions, and concerns of the students registered for the course. The 
+Committee shall review the progress of the course and recommend measures 
+for improving the effectiveness of the teaching -learning process. The student 
+representatives shall communicate the important outcomes of the meetings to 
+the students of their respective classes or divisions. 
+ 8.1.1 Functions 
+  
+In addition to the meetings referred to above, the Common Course Committee, 
+without the participation of student representatives, shall meet periodically to: 
+(i) ensure uniform coverage of the syllabus; 
+(ii) maintain uniform standards of evaluation; 
+(iii) prepare common question papers for Continuous Internal Assessments 
+and Semester End Examinations, wherever applicable; and 
+
+--- PAGE 15 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+15 
+ 
+(iv) ensure consistency in assessment and grading across all divisions of the 
+course. 
+ 8.2 Class Committee 
+ 8.2.1 Constitution 
+  
+For each class, a Class Committee shall be constituted comprising: 
+(i) all faculty members handling courses for the class; 
+(ii) two student representatives nominated from the class; and 
+(iii) a faculty member nominated by the Head of the Department as the Class 
+Committee Coordinator, preferably a faculty member not handling any course 
+for that class. 
+ 8.2.2 Meetings and Functions 
+  
+The Class Committee shall meet three times during a semester. The first 
+meeting shall be conducted within fifteen days from the commencement of the 
+semester, and the remaining two meetings shall be held at suitable intervals. 
+The Committee shall: 
+(i) review the academic progress of the class; 
+(ii) consider feedback from students regarding teaching-learning processes and 
+academic facilities; 
+(iii) identify difficulties encountered by students and recommend suitable 
+remedial measures; and 
+(iv) monitor the overall academic performance of the class. 
+During the meetings, the student representatives shall present the views, 
+suggestions, and concerns of the students. The student representatives shall 
+also communicate the important outcomes  of the meetings to the students of 
+the class. 
+ 
+9 SYSTEM OF EXAMINATION 
+ 
+9.1 The performance of a student in each course shall be evaluated based on: (i) 
+Continuous Internal Assessment (CIA) carried out throughout the semester; 
+and (ii) Semester End Examination (SEE) conducted at the end of the semester, 
+as prescribed in the Scheme of Assessment under Clause 17. 
+
+--- PAGE 16 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+16 
+ 
+9.2 Each course, including theory, laboratory, project work, internship, seminar, 
+and other academic components, shall be evaluated in accordance with the 
+Scheme of Assessment prescribed under Clause 17. 
+9.3 The Semester End Examinations shall normally be conducted after the 
+completion of the instructional period prescribed for the semester and upon 
+satisfying the attendance requirements specified under Clause 6. 
+ 
+10 PASSING REQUIREMENTS AND PROVISIONS 
+ 10.1 Passing Requirements for Theory Courses 
+  
+The passing requirements for a course shall be based on the marks obtained in 
+both Continuous Internal Assessment and the Semester End Examination. A 
+student shall be declared to have passed a course and earned the corresponding 
+credits if the student secures: 
+(i) not less than 50% of the total marks prescribed for the course, considering 
+both Continuous Internal Assessment a nd Semester End Examination marks 
+taken together; and 
+(ii) not less than 45% of the marks prescribed for the Semester End 
+Examination. 
+ 10.1.1 Failure and Reappearance 
+  
+A student who fails to satisfy the passing requirements prescribed in Clause 
+10.1 shall register for and appear in the Semester End Examination of that 
+course in the subsequent examination sessions until a pass is secured. 
+The Continuous Internal Assessment marks obtained during the first 
+appearance shall be retained and considered for one subsequent attempt, 
+except in cases covered under Clauses 5.5.4, 5.5.5, and 5.5.6, where the student 
+is required to repeat the course and earn fresh Continuous Internal Assessment 
+marks. From the third attempt onwards, the student shall be declared to have 
+passed the course if the student secures the minimum of 50% in the course  
+prescribed for the Semester End Examination, subject to the regulations in 
+force. 
+ 10.2 Passing Requirements for Project Work 
+  
+A student who fails in Project Work I shall resubmit the Project Report within 
+thirty days from the date of publication of the results. A st udent who fails in 
+
+--- PAGE 17 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+17 
+ 
+Project Work II shall resubmit the Project Report within sixty days from the 
+date of publication of the results. The resubmitted Project Repo rt shall be 
+evaluated and followed by a Viva -Voce Examination. Such evaluation shall 
+be treated as a reappearance examination, and the prescribed examination fee 
+shall be paid. If a student fails in the resubmission and subsequent Viva-Voce 
+Examination, the student shall register for the Project Work course again when 
+it is next offered. 
+ 10.3 Courses Evaluated Through Continuous  Internal Assessment 
+  
+For courses evaluated solely through Continuous Internal Assessment, 
+including Employability Enhancement  Courses (EEC), excluding Project 
+Work, a student shall secure a minimum of 50% of the total marks prescribed 
+for the course to be declared to have passed. A student who fails in such a 
+course shall register for and repeat the course when it is next offere d and 
+satisfy all the requirements prescribed for the course. 
+ 10.4 Minimum Credit Requirement 
+  
+The minimum number of credits required for the award of the degree in each 
+programme shall be as prescribed by the respective Board of Studies and 
+approved by the Academic Council is given below: 
+Branch of Study 
+Minimum Credits 
+Regular 
+Admission Lateral Entry 
+B.E. Programmes 
+Computer Science and Engineering 162 118 
+Electrical and Electronics 
+Engineering 162 118 
+Electronics and Communication 
+Engineering 162 118 
+Electronics and Instrumentation 
+Engineering 162 118 
+Mechanical Engineering 162 118 
+Mechatronics Engineering 162 118 
+
+--- PAGE 18 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+18 
+ 
+B.Tech. Programmes 
+Agricultural Engineering 162 120 
+Artificial Intelligence and Data 
+Science 162 118 
+Biotechnology 162 120 
+Information Technology 162 118 
+ 
+ 
+ 
+10.5 
+ 
+Minimum Credit Requirement 
+  
+A student shall earn not less than the minimum number of credits prescribed 
+in the curriculum of the respective programme for the award of the degree. In 
+cases where course equivalence  is considered between different regulations, 
+and the credit structure of the equivalent courses differs, equivalence shall be 
+determined based on the credit assignment prescribed under the regulations 
+currently in force. 
+ 10.6 Student Migration and Credit Transfer 
+  
+The transfer and normalization of credits for students migrating from other 
+affiliated institutions to Bannari Amman Institute of Technology, or for 
+students rejoining under a different set of regulations, shall be considered by 
+the Board of Studies of the respective programme and approved by the Head 
+of the Institution. The Board of Studies shall determine the equivalence of 
+courses, credit requirements, and additional courses, if any,  to be completed 
+by the student. 
+ 10.7 Eligibility for the Award of Degree 
+  
+A student shall be declared eligible for the award of the B.E. / B.Tech. Degree 
+of the Institution if the student: 
+(i) has successfully completed all the courses and other academic requirements 
+prescribed in the curriculum of the respective programme; 
+(ii) has earned the minimum number of credits prescribed for the programme; 
+(iii) has satisfied all the requirements specified in these Regulations; and 
+(iv) has completed the programme within the duration prescribed  under vide 
+Clause 4. 
+ 
+
+--- PAGE 19 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+19 
+ 
+11 ASSESSMENT AND AWARD OF LETTER GRADES 
+ 
+11.1 The performance of a student in each course shall be evaluated through 
+Continuous Internal Assessment and/or Semester End Examination, as 
+prescribed in the Scheme of Assessment under Clause 17. Based on the 
+performance of the student, Letter Grades shall be awarded in accordance with 
+the grading system prescribed in these Regulations. 
+ 
+11.2 A Grade Point is a numerical value assigned to a Letter Grade on a ten -point 
+scale, as specified in Clause 11.3. 
+The Credit Point earned for a course shall be calculated as follows: 
+Credit Point = Grade Point × Number of Credits assigned to the course 
+The Letter Grade awarded in a course shall indicate the level of performance 
+of the student in that  course. The performance of a student shall be reported 
+using Letter Grades, each carrying a specified Grade Point as given in Table 
+I. A student who secures a minimum Grade Point of 5 (Grade ‘C’) in a course 
+shall be declared to have successfully completed and passed the course. 
+ 
+11.3 An absolute grading system shall be followed for all categories of courses. The 
+range of marks corresponding to the Letter Grades and Grade Points shall be 
+as specified in Table I. 
+Table  I  Range of Marks for Grades 
+Letter Grade Grade 
+Points 
+S (Outstanding) 10 
+A + (Excellent) 9 
+A (Very Good) 8 
+B + (Good) 7 
+B (Above Average) 6.5 
+C+ (Average) 6 
+C (Satisfactory) 5 
+U (Reappearance) 0 
+WC (Withdrawal) 0 
+AB (Absent) 0 
+
+--- PAGE 20 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+20 
+ 
+SA (Shortage of 
+Attendance) 0 
+‘U’     ---Reappearance is required for that particular course 
+‘SA’ --- shortage of attendance (Clause 6) and hence prevented from writing 
+end semester examination. 
+ 
+11.4 After completion of the evaluation proces s, Semester Grade Point Average 
+(SGPA), and the Cum ulative Grade Point Average (CGPA) are calculated 
+using the formula:  
+𝑆𝐺𝑃𝐴
+𝐶𝐺𝑃𝐴 =  
+∑ 𝐶𝑖 ∗ 𝑔𝑖
+𝑛
+𝑖
+∑ 𝐶𝑖
+𝑛
+𝑖
+ 
+   Where 
+ : Credit allotted to the course. 
+ : Grade Point secured corresponding to the course. 
+ n :  number of courses successfully cleared during the 
+particular semester in the case of SGPA and all the semesters, 
+under consideration, in the case CGPA. 
+RA grades will be excluded for calculating SGPA and CGPA. 
+ 11.5 Absence in Semester End Examination 
+  
+A student who registers for a Semester End Examination in a course but does 
+not appear for the examination shall be deemed to have appeared for that 
+examination for the purpose of classification of the degree, subject to the 
+provisions of Clauses 13 and 14. 
+ 11.6 Non-Credit Courses and Co-Curricular Activities 
+  
+For non-credit courses, the grades awarded shall be indicated in the Grade 
+Sheet as prescribed under Clause 17. However, such grades shall not be 
+considered for the computation of the Semester Grade Point Average (SGPA) 
+or the Cumulative Grade Point Averag e (CGPA). For approved co -curricular 
+activities such as NCC, NSS, NSO, YRC, and similar programmes, the status 
+of completion shall be recorded in the Grade Sheet. Every student shall secure 
+a minimum of 75% attendance in the prescribed training activities and shall 
+participate in the mandatory camp(s), wherever applicable. The requirements 
+relating to co -curricular activities shall be completed before registration for 
+
+
+--- PAGE 21 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+21 
+ 
+Semester V. Successful completion of the prescribed co -curricular activity 
+requirements shall be mandatory for the award of the degree. 
+ 11.7 Revaluation 
+  
+A student may apply for revaluation of the answer script of a theory course in 
+the prescribed format through the Head of the Department to the Office of the 
+Controller of Examinations within the period notified by the Institution. The 
+Office of the Controller of Examinations shall arrange for the revaluation and 
+publish the results. Revaluation shall be permitted only for theory courses. In 
+the case of courses comprising both theory and  laboratory components, 
+revaluation shall be permitted only for the theory component, subject to  the 
+procedure prescribed above. 
+ 11.8 Eligibility for the Award of Degree 
+  
+A student shall be declared eligible for the award of the B.E. / B.Tech. Degree, 
+provided that the student: 
+(i) has successfully earned the minimum number of credits prescribed in the 
+curriculum of the respective programme within the stipulated period; 
+(ii) has successfully completed all course requirements, appeared for the 
+Semester End Examinations, and passed all the prescribed courses within a 
+maximum period of seven years for students admitted under Regular 
+Admission and six years for students admitted under Lateral Entry Admission, 
+reckoned from the date of commencement of the fir st semester of the 
+programme; 
+(iii) has successfully completed the prescribed NCC / NSS / NSO / YRC / Co-
+curricular / Extra-curricular requirements, wherever applicable; 
+(iv) has no disciplinary proceedings pending against him/her; and 
+(v) satisfies all ot her requirements prescribed by the Institution and the 
+affiliating University for the award of the degree. 
+The award of the degree shall be subject to the approval of the Syndicate of 
+the affiliating University. 
+ 11.9 Conduct of Academic Audit 
+  
+The objective of the Academic Audit is to evaluate and continuously improve 
+the quality of curriculum design, teaching -learning processes, student 
+assessment practices, and academic outcomes. The Institution shall conduct 
+
+--- PAGE 22 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+22 
+ 
+Academic Audits periodically to as sess the effectiveness of academic 
+processes and to identify areas requiring improvement. Academic Audits may 
+be conducted by internal and external academic experts nominated by the 
+Institution. 
+The recommendations arising from the Academic Audit shall be considered 
+for continuous quality improvement in academic planning, curriculum 
+delivery, assessment, and outcome attainment. 
+ 11.10 Conduct of Special Examinations 
+  
+Special Examinations or Make -up Examinations may be conducted for 
+students who are unable to appear for the regular examinations due to 
+participation in approved academic, co -curricular, extracurricular, sports, 
+placement, or institutional activities. The schedule for such examinations may 
+be included in the Academic Calendar or notified separately by the Controller 
+of Examinations. Special Examinations shall normally be conducted after the 
+completion of the Semester End Examinations and before the publication of 
+results of the respective semester examinations. The eligibility criteria an d 
+conduct of such examinations shall be governed by the guidelines approved 
+by the Academic Council. 
+ 11.11 Conversion of CGPA into Percentage 
+  
+For the purpose of higher studies, employment, scholarships, and other official 
+requirements, the percentage equivalent of the Cumulative Grade Point                     
+Average (CGPA) shall be calculated as follows: 
+Percentage of Marks = CGPA × 10 
+ 
+12 CLASSIFICATION OF THE DEGREE AWARDED 
+ A student shall be deemed to have completed the requirements for the award of the 
+degree if the student: 
+(i) has successfully completed all the courses and other academic requirements 
+prescribed in the curriculum of the respective programme and earned the minimum 
+number of credits required for the award of the degree; and 
+(ii) has no disciplinary proceedings pending against him/her. 
+ 
+ 
+
+--- PAGE 23 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+23 
+ 
+ 12.1 First Class with Distinction and Honours 
+  
+A student shall be declared to have successfully completed the degree 
+programme with Honours and classified under First Class with Distinction 
+and Honours, provided that the student: 
+(i) has passed all the courses prescribed in the curriculum of the respective 
+programme in the first appearance; 
+(ii) has successfully completed all additional courses prescribed under the 
+Honours programme in the first appearance, in accordance with Clause 15; 
+(iii) has secured a CGPA of not less than 8.50; 
+(iv) has completed the programme within the duration prescribed under Clause 
+4.1,4.2,4.3; and 
+(v) has not been prevented from appearing for any Semester End Examination 
+due to shortage of attendance or disciplinary action. 
+ 12.2 First Class with Distinction 
+  
+A student shall be declared to have successfully completed the degree 
+programme with First Class with Distinction, provided that the student: 
+(i) has passed all the courses prescribed in the curriculum of the respective 
+programme in the first appearance; 
+(ii) has secured a CGPA of not less than 8.50; 
+(iii) has completed the programme within the duration prescribed under Clause 
+4.1,4.2,4.3; and 
+(iv) has not been prevented from appearing for any Semester End Examination 
+due to shortage of attendance or disciplinary action. 
+Students who have opted for the Honours programme but do not satisfy the 
+requirements prescribed under Clause 12.1, or students who have successfully 
+completed the Minor Degree requirements, shall nevertheless be eligible for 
+First Class with Distinction if they satisfy the requiremen ts prescribed under 
+this clause. 
+ 12.3 First Class 
+  
+A student shall be declared to have successfully completed the degree 
+programme with First Class, provided that the student: 
+(i) has passed all the prescribed courses within the duration prescribed under 
+Clause 4.1,4.2,4.3; 
+
+--- PAGE 24 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+24 
+ 
+(ii) has secured a CGPA of not less than 6.50; and 
+(iii) has not been prevented from appearing for any Semester End Examination 
+due to shortage of attendance or disciplinary action. 
+ 12.4 Second Class 
+  
+A student shall be declared to have successfully completed the degree 
+programme with Second Class if the student: 
+(i) has passed all the prescribed courses within the maximum period permitted 
+under Clause 4; and 
+(ii) does not satisfy the requirements presc ribed under Clauses 12.1, 12.2, or 
+12.3. 
+ 12.5 Degree with Minor 
+  
+A student who successfully fulfills all the requirements prescribed for the 
+award of a Minor Degree under Clause 16 shall be awarded the Minor Degree 
+in addition to the classification earned under Clauses 12.2, 12.3, or 12.4, as 
+applicable. 
+The Minor Degree shall be reflected in the Transcript and other academic 
+records in the manner prescribed by the Institution. 
+ 
+13 WITHDRAWAL FROM THE EXAMINATION 
+ 
+13.1 A student may, for valid and genuine reasons, be permitted to withdraw from 
+appearing for the Semester End Examination in one or more courses, only once 
+during the entire duration of the programme. The application for withdrawal 
+shall be submitted to the Office of the Controller of Examinations through the 
+Head of the Department and the Head of the Institution, together with the 
+supporting documents. 
+ 
+13.2 An application for withdrawal shall be considered only if: 
+(i) the student satisfies the eligibility requirements prescribed under  Clause 6 
+for appearing for the examination; 
+(ii) the application is submitted at least ten working days prior to the 
+commencement of the Semester End Examination in the course(s) concerned; 
+and 
+(iii) the application is recommended by the Head of the Department. 
+
+--- PAGE 25 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+25 
+ 
+ 
+13.3 Notwithstanding the requirement of ten working days’ notice, applications for 
+withdrawal under exceptional circumstances may be considered on the merits 
+of the case by the competent authority. 
+ 
+13.4 A student who has been granted withdrawal from a course or courses shall 
+register for the same course(s) and appear for the Semester End Examination 
+during a subsequent examination session. 
+ 
+13.5 Withdrawal from an examination shall not be treated as an appearance for the 
+purpose of classification of the degree, including eligibility for First Class with 
+Distinction and First Class. 
+ 
+13.6 Withdrawal from the Semester End Examinations of the final semester may be 
+permitted, provided that the student remains eligible to complete the 
+programme within the maximum duration prescribed under Clause 4. 
+ 
+14 AUTHORIZED BREAK OF STUDY FROM A PROGRAMME 
+ 
+14.1 A student may be permitted to avail an Authorized Break of Study for a 
+maximum period of one academic year during the entire programme of study. 
+Such breaks shall normally be permitted only once during the programme. A 
+student is ordinarily expected to complete the programme without interruption. 
+However, under exceptional circumstances such as accident, prolonged 
+illness, hospitalization, or other genu ine reasons requiring temporary 
+discontinuance of studies, the student may apply for an Authorized Break of 
+Study. 
+The application shall be submitted to the Head of the Institution through the 
+Head of the Department, stating the reasons for the request and  enclosing the 
+necessary supporting documents. Such application shall be submitted in 
+advance and, in any case, not later than the last date prescribed for registration 
+for the Semester End Examinations of the semester concerned. 
+A student detained due to shortage of attendance as prescribed under Clause 6 
+shall not be considered to have availed an Authorized Break of Study. 
+ 
+14.2 A student who rejoins the programme after an Authorized Break of Study shall 
+be governed by the curriculum and regulations in force at the time of rejoining. 
+Wherever necessary, the student shall complete additional or equivalent 
+courses prescribed by the Department concerned to bridge the curriculum 
+
+--- PAGE 26 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+26 
+ 
+differences between the regulations under which the student was originally 
+admitted and the regulations in force at the time of rejoining. 
+The additional or equivalent courses shall be recommended by the Head of the 
+Department and approved by the Academic In -charge / Competent Authority 
+of the Institution. 
+ 
+14.3 The period of Authorized Break of Study shall be counted towards the 
+maximum duration permitted for completion of the programme and for the 
+purpose of classification of the degree, as prescribed under Clauses 4 and 12. 
+The total duration for completion of the programme,  reckoned from the date 
+of commencement of the first semester, shall not exceed the maximum 
+duration prescribed under Clause 4, irrespective of the period of Authorized 
+Break of Study. 
+In exceptional cases and for valid reasons as specified in Clause 14.2, the Head 
+of the Institution may grant an additional break of study not exceeding one 
+academic year beyond the initial Authorized Break of Study. 
+ 
+14.4 A student who fails to rejoin the programme after the expiry of the approved 
+break period shall forfeit the right to continue the programme. 
+The name of such a student may be removed from the rolls of the Institution, 
+and readmission thereafter shall be permitted only in accordance with the 
+regulations and policies of the Institution in force at that time. 
+ 
+15 IMPLEMENTATION OF HONOURS DEGREE 
+ 15.1 General Provisions 
+  
+The Honours Degree option provides an opportunity for academically 
+proficient students to pursue advanced learning in their major discipline 
+through additional coursework. Students may earn  the Honours Degree by 
+successfully completing the prescribed additional requirements, over and 
+above the curriculum of the respective programme, from Semester V onwards. 
+The additional requirements shall consist of: 
+six additional elective courses prescribed under the Honours Vertical. 
+Students shall earn a minimum of eighteen additional credits as prescribed in 
+the curriculum. 
+
+--- PAGE 27 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+27 
+ 
+  
+(a) Students admitted under Clause 1.1 shall be eligible to register for the 
+Honours Degree if they have secured a minimum CGPA  of 7.00 in Semester 
+III and  IV and have no history of arrears from first semester. 
+(b) Students admitted under Clause 1.2 (Lateral Entry) shall be eligible to 
+register for the Honours Degree if they have secured a minimum CGPA of 
+7.00 in Semester III and  IV without any backlog arrears in Third and Fourth 
+semesters. 
+The registration for the Honours Degree shall be subject to the approval of the 
+Head of the Department. 
+ 15.2 Honours through Additional Elective Courses 
+ 15.2.1 Eligibility Criteria  
+  
+Students may earn the Honours Degree by successfully completing six 
+additional elective courses from the Honours Vertical prescribed in the 
+curriculum during Semesters V to VII. The student shall earn eighteen 
+additional credits through these courses. The evaluation and passing 
+requirements shall be as prescribed for theory courses under Clause 17. 
+ 15.2.2 Award of Honours 
+  
+A student who successfully completes all six Honours Elective Courses, 
+secures a CGPA of 8.50 or above, and has no history of arrears shall be 
+awarded the Honours Degree. 
+ 15.2.3 Discontinuation of Honours 
+  
+A student who chooses to discontinue the Honours programme may retain the 
+credits earned through the completed Honours courses, subject to the 
+equivalence and credit transfer provisions approved by the Department and 
+Academic Council. 
+ 15.2.4 Treatment of Additional Courses 
+  
+Where a student completes elective courses in excess of the minimum 
+programme requirements, the courses and grades earned shall be recorded in 
+the Grade Sheet. The methodology for inclusion of such courses in the 
+computation of CGPA shall be as prescribed by the Academic Council from 
+time to time. 
+ 
+ 
+
+--- PAGE 28 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+28 
+ 
+16 IMPLEMENTATION OF MINOR DEGREE  
+ 16.1 General Provisions 
+  
+The Minor Degree option enables students to acquire additional knowledge 
+and competencies in a discipline other than their parent discipline through 
+structured coursework. 
+A student may be awarded a Minor Degree upon successful completion of the 
+prescribed additional courses, over and above the curriculum requirements of 
+the parent programme, from Semester V onwards. 
+ 16.2 Credit Requirement 
+ 
+   
+A student shall earn a minimum of eighteen additional credits for the award of 
+a Minor Degree. The distribution of credits shall be as prescribed in the 
+respective curriculum. 
+ 16.3 Eligibility for Students Admitted under Clause 1.1 
+  
+A student admitted under Clause 1.1 shall be eligible to register for a Minor 
+Degree if the student: 
+(i) has secured a minimum CGPA of 7.00 in Semester III and IV; and 
+(ii) has no history of arrears from the first semester at the time of registration 
+for the Minor Degree. 
+ 16.4 Eligibility for Students Admitted under Clause 1.2 
+  
+A student admitted under Clause 1.2 (Lateral Entry) shall be eligible to register 
+for a Minor Degree if the student: 
+(i) has secured a minimum CGPA of 7.00 at the end of Semester IV; and 
+(ii) has no current arrears in Third and Fourth semesters at the time of 
+registration for the Minor Degree. 
+ 16.5 Registration for Minor Degree 
+  
+A student may register for a Minor Degree from Semester V onwards by 
+registering for the courses prescribed under the Minor curriculum offered by a 
+department other than the student's parent department. 
+The evaluation and passing requirements for  the Minor Degree courses shall 
+be as prescribed for theory courses under Clause 17. 
+ 16.6 Requirements for the Award of Minor Degree 
+  
+To qualify for the award of a Minor Degree, a student shall: 
+(i) successfully complete all the courses prescribed in the Minor curriculum; 
+
+--- PAGE 29 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+29 
+ 
+(ii) earn the prescribed eighteen additional credits; and 
+(iii) satisfy all other requirements prescribed by the Institution. 
+The grades obtained in the Minor Degree courses shall be included in the 
+computation of CGPA in accordance with the regulations in force. 
+ 16.7 Discontinuation of Minor Degree 
+  
+A student who chooses to discontinue the Minor Degree programme after 
+successfully completing one or more Minor courses may retain the credits 
+earned. 
+The equivalence of such courses, if any, towards Open Elective requirements 
+shall be determined by the Department concerned and approved by the 
+Academic Council, subject to the condition that the course content does not 
+substantially overlap with the student's parent curriculum. 
+ 16.8 Treatment of Additional Courses 
+  
+Where a student completes courses in excess of the minimum requirements 
+prescribed for the Minor Degree or the parent programme, the additional 
+courses and grades earned shall be reflected in the Grade Sheet. 
+The methodology for inclusion of such courses in the computation of CGPA 
+shall be as prescribed by the Academic Council from time to time. 
+ 16.9 Nomenclature of Minor Degree 
+  
+The Minor Degree shall be reflected in the Degree Certificate and Academic 
+Transcript in the following format: 
+“B.E. / B.Tech. in XYZ Engineering with Minor in ABC” 
+where: XYZ denotes the Major Discipline of study; and  ABC denotes the 
+Discipline in which the Minor Degree is awarded. 
+ 16.10 Restriction 
+  
+A student shall be permitted to register for either the Honours Degree or the 
+Minor Degree, but not both, during the course of study. 
+ 
+17 SCHEME OF ASSESSMENT 
+ 
+The performance of a student in each course shall be assessed through Continuous 
+Internal Assessment (CIA) and Semester End Examination (SEE), or through 
+Continuous Internal Assessment alone, as specified in the curriculum and the Scheme 
+of Assessment. The semester-wise academic performance of students shall be evaluated 
+
+--- PAGE 30 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+30 
+ 
+in accordance with the assessment pattern prescribed for the respective category of 
+courses. 
+ 17.1 Theory Courses 
+  
+For Theory (T) Courses, evaluation shall be based on Continuous Internal 
+Assessment and Semester End Examination. Each Theory Course shall carry 
+a maximum of 100 marks, distributed as follows: 
+Components Marks 
+Continuous Internal Assessment (CIA) 40 
+Semester End Examination (SEE) 60  
+Total Marks 100  
+The Continuous  Internal Assessment marks for a Theory Course shall be 
+computed based on the marks obtained in the prescribed Internal Assessments 
+and other assessment components, as specified in Table. 
+Weightage for Continuous Internal Assessment in Theory (T) Courses 
+Components Marks 
+Assessment I 14 
+Assessment II 14 
+Activities (as specified in syllabus) 12 
+Total  40 
+Semester End examination shall be conducted for 100 marks with a duration of 
+THREE hours. 
+ 17.2 Laboratory Courses 
+ 
+ For Laboratory (L) Courses, evaluation shall be based on Continuous Internal 
+Assessment and End Semester Practical Examination. 
+The distribution of marks shall be as follows: 
+Components Marks 
+Continuous Internal Assessment 60 
+End Semester Practical Examination 40 
+Total 100 
+ 
+ 
+
+--- PAGE 31 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+31 
+ 
+  
+The Continuous Internal Assessment shall be based on the student's 
+performance in laboratory work, observation, record maintenance, practical 
+skills, and other activities as prescribed. 
+Weightage for Continuous Internal Assessment in Laboratory Courses 
+Components Marks 
+Preparation 10 
+Experiment and Analysis of 
+Results 
+10 
+Record 10 
+Test – Cycle I 15 
+Test – Cycle II 15 
+Total  60 
+ 
+Semester End examination shall be conducted for 100 marks with a duration of 
+THREE hours. 
+ 17.3 Project Work I /II 
+ 
+ Project Work may be carried out individually or by a group of students, not 
+exceeding three in number, under the guidance of a faculty member designated 
+as the Project Guide. 
+Project evaluation shall be based on Continuous Internal Assessment, Project 
+Report Evaluation, and Viva -Voce Examination. The Project Review 
+Committee shall be constituted by the Head of the Department. 
+Assessment for Project Work I /II 
+Components Marks 
+Continuous Internal Assessment (CIA) 60 
+ Distribution of marks for CIA 
+Review I 
+a. Problem Statement and Literature Survey 
+b. Work plan 
+10 
+5 
+5 
+Review II 
+a. Methodology and Approach  
+b. Work Contribution 
+c. Presentation and viva voce 
+20 
+10 
+5 
+5 
+
+--- PAGE 32 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+32 
+ 
+Review III 
+a. Results & Discussions 
+b. Presentation and viva voce  
+c. Report and Contribution 
+d. Publication 
+30 
+5 
+5 
+10 
+10 
+Semester End Examinations (SEE) 
+ a.   Presentation 
+ b.   Viva voce  
+ c. Report 
+40 
+15 
+15 
+10 
+Total  100 
+ 
+ 17.4 Internship / Industrial Training/Summer Internship 
+  
+A student shall undergo Internship / Industrial Training for the duration 
+prescribed in the curriculum. 
+The organization in which the Internship / Industrial Training is undertaken 
+shall be engaged in activities related to Design, Development, Fabrication, 
+Manufacturing, Production, Testing, Research and Development, 
+Consultancy, or Professional Services relevant to the programme of study. 
+Upon completion of the Internship / Industrial Training, the student shall 
+submit: 
+(i) an Internship / Industrial Training Report; and 
+(ii) a Certificate of Completion and Attendance issued by the organization 
+concerned. 
+The assessment shall be carried out as follows: 
+Assessment for Internship / Industrial Training 
+Components Marks 
+Midterm Review 30 
+Final Presentation 30 
+Viva-voce 20 
+Case Study / Report 20 
+Total  100 
+ 
+At least 10% of the marks awarded for the Viva -Voce Examination shall be 
+based on the feedback/evaluation provided by the organization concerned. 
+ 
+ 
+
+--- PAGE 33 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+33 
+ 
+ 17.5 Community Engagement Project 
+  
+A Community Engagement Project shall provide students with an opportunity 
+to engage with the community and apply their knowledge and skills to identify, 
+understand, and address real-world social or community-related issues through 
+appropriate activities, analysis, design, or practical interventions 
+The Head of the Department shall constitute a  Review Committee for 
+assessment. 
+Assessment for Community Engagement Project 
+Components Marks 
+Continuous Internal Assessment (CIA) 60 
+ Distribution of marks for CIA 
+Review I 
+a. Understanding of community and problem  
+      identification 
+b. Data collection and feasibility of proposed  
+      intervention 
+c. Individual Contribution and presentation 
+30 
+10 
+ 
+10 
+10 
+Review II 
+a.   Analysis of identified problem 
+b.   Impact / outcome of the intervention 
+c.   Individual Contribution and presentation 
+30 
+10 
+10 
+10 
+Semester End Examinations (SEE) 
+ a.  Presentation 
+ b.  Viva voce  
+ c.  Report 
+40 
+15 
+15 
+10 
+Total  100 
+Students shall submit the project report in the prescribed format within the 
+timeline specified by the Department. 
+ 17.6 Innovation and Product Development Project 
+  
+An Innovation and Product Development Project shall provide students with 
+an opportunity to identify real -world problems and develop innovative 
+solutions through ideation, design, prototyping, experimentation, and 
+validation. 
+The Head of the Department shall constitute a Review Committee for 
+assessment. 
+ 
+ 
+
+--- PAGE 34 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+34 
+ 
+Assessment for Innovation and Product Development Project 
+Components Marks 
+Continuous Internal Assessment (CIA) 60 
+ Distribution of marks for CIA 
+Review I 
+a. Problem identification and Literature Survey 
+b. Work Plan 
+c. Proposed Methodology  
+d. Individual Contribution and presentation 
+30 
+10 
+5 
+5 
+10 
+Review II 
+ a.   Technical implementation 
+ b.   Prototype / simulation / proof-of-concept  
+       demonstration  
+ c.   Individual Contribution and presentation 
+30 
+10 
+10 
+10 
+Semester End Examinations (SEE) 
+ a.   Presentation  
+ b.   Viva voce  
+ c.   Report 
+40 
+15 
+15 
+10 
+Total  100 
+Students shall submit the project report in the prescribed format within the 
+timeline specified by the Department. 
+ 17.7 Course on Standards 
+  
+The Course on Standards is a discipline -specific course intended to equip 
+students with knowledge of relevant engineering standards, codes, and 
+professional practices. 
+The course shall be evaluated solely through Continuous Internal Assessment. 
+A minimum of two assessment tests shall be conducted: 
+(i) one Mid-Semester Test; and 
+(ii) one End-Semester Test. 
+Both tests shall carry equal weightage of 50 marks. 
+No Semester End Examination shall be conducted for this course. 
+ 17.8 a Communicative English/ Professional Communication 
+ 
+ For this course, evaluation shall be based on Continuous Internal Assessment 
+(CIA) and the Semester End Examination (SEE). The course carries a 
+maximum of 100 marks, with 60 marks allocated to CIA and 40 marks 
+allocated to SEE. 
+ 
+ 
+
+--- PAGE 35 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+35 
+ 
+Assessment for  Communicative English/ Professional Communication 
+Components Marks 
+Continuous Internal Assessment (CIA) 60 
+ Distribution of marks for CIA 
+Assessment I 
+a. Paragraph writing 
+b. Descriptive/narrative writing 
+c. Grammar and vocabulary in context 
+d. Sentence construction 
+e. Short professional communication task 
+15 
+Assessment II 
+a. Essay/extended writing 
+b. Formal email/letter 
+c. Report or summary writing 
+d. Professional writing 
+e. Application of grammar and vocabulary 
+15 
+ 
+Activity I 
+a. Audio comprehension 
+b. Listening for specific information  
+c. Note-taking / interpretation 
+15 
+5 
+5 
+5 
+Activity II 
+a. Individual speaking / presentation 
+b. Role play / Dialogue 
+c. Group discussion 
+15 
+5 
+5 
+5 
+Semester End Examinations (SEE) 
+        Reading Comprehension, Writing Skills and  
+       Grammar & Vocabulary / Language Use 
+40 
+ 
+Total  100 
+ 
+Semester End examination shall be conducted for 100 marks with a duration 
+of THREE hours. 
+ b Tamil Courses 
+ 
+ Two courses on ‘Heritage’ are offered to foster an appreciation of cultural 
+diversity and promote inclusivity in a globalized world. Evaluation for these 
+courses shall be based on Continuous Internal Assessment (CIA) and the 
+Semester End Examination (SEE). Each course carries a maximum  of 100 
+marks, distributed as 40 marks for CIA and 60 marks for SEE. 
+The Continuous Internal Assessment (CIA) marks shall be computed based on 
+two assessment components: 
+ 
+ 
+
+--- PAGE 36 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+36 
+ 
+Components Marks 
+Continuous Internal Assessment 
+(CIA) 
+40 
+Distribution of marks for CIA 
+Quiz/ Assignment 20 
+Case study report 20 
+Semester End Examinations (SEE) 60 
+Total  100 
+The Semester End Examination (SEE) accounts for the remaining 60 marks of 
+the evaluation scheme. The examination itself shall be conducted for 100 
+marks with a duration of THREE hours. 
+ 17.9 Design Thinking and Innovation 
+ 
+ Evaluation for the Design Thinking  course shall be based on Continuous 
+Internal Assessment (CIA) and the Semester End Examination (SEE). The 
+course carries a maximum of 100 marks, with 60 marks allocated to CIA and 
+40 marks allocated to SEE. 
+The Continuous Internal Assessment (CIA) marks shall be computed based on 
+two assessment components: 
+Components Marks 
+Continuous Internal Assessment 
+(CIA) 
+60 
+Distribution of marks for CIA 
+Review I 
+     a.  Problem identification  
+     b.  User Analysis and Empathy map  
+     c.  Ideation & Application of tools  
+30 
+10 
+10 
+10 
+Review II 
+a. Design Approach 
+b. Simulation / 3D Modelling / 
+Digital Prototype 
+c. Validation & Iterative 
+Improvement 
+d.    Presentation and Teamwork 
+30 
+5 
+10 
+ 
+5 
+ 
+10 
+Semester End Examinations (SEE) 
+a. Presentation and  Viva voce 
+b. Outcome / Digital Prototype 
+Demonstration 
+c. Report  
+40 
+15 
+15 
+ 
+10 
+Total  100 
+  
+ 
+
+--- PAGE 37 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+37 
+ 
+ 17.10 Publication of Results and Revaluation 
+  
+(i) The results of the Semester End Examinations shall normally be published 
+within twenty working days from the date of completion of the examinations. 
+(ii) A student may apply for revaluation of answer scripts in accordance with 
+the procedures prescribed by the Controller of Examinations. 
+(iii) Revaluation shall not be permitted for courses evaluated solely thr ough 
+Continuous  Internal Assessment. 
+ 17.11 Failure to Satisfy Passing Requirements 
+  
+A student who fails to satisfy the passing requirements prescribed under 
+Clause 10 shall be governed by the following provisions: 
+(a) Theory and Laboratory Courses 
+The student shall register for and appear in the End Semester Examination 
+during a subsequent examination session. 
+The Continuous Internal Assessment marks obtained in the first appearance 
+shall be retained in accordance with Clause 10.1.1. 
+(b) Project Work, Internship / Industrial Training and Mini Project 
+A supplementary Viva -Voce Examination may be conducted within a 
+minimum period of 30 days from the publication of results. 
+A student who fails to satisfy the passing requirements in the supplementary 
+examination shall register for and repeat the course when it is next offered. 
+(c) Course on Standards 
+Special instructional sessions may be arranged by the Institution during the 
+subsequent semester. 
+Students who fail to satisfy the passing requirements after such special 
+sessions shall repeat the course when it is next offered. 
+ 17.12 Optional Test 
+  
+A student may be permitted to appear for an Optional Test conducted after 
+Periodical Test–II under any of the following circumstances: 
+(i) absence from Periodical Test–I or Periodical Test–II due to hospitalization, 
+accident, or other valid medical reasons supported by documentary evidence; 
+(ii) participation in Institution, University, State, National, or International 
+level events with prior approval of the Head of the Institution; or 
+
+--- PAGE 38 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+38 
+ 
+(iii) any other exceptional circumstance approved by the Head of the 
+Institution. 
+The student shall apply for the Optional Test through the Course Instructor 
+and the Head of the Department in the prescribed format within the stipulated 
+time. 
+ 
+18 PERSONALITY AND CHARACTER DEVELOPMENT  
+ 
+Every student shall successfully complete a minimum of 40 hours  of approved 
+Personality and Character Development activities during the programme of study. Such 
+activities may include, but are not limited to, NSS, NCC, YRC, Yoga, Sports and 
+Games, Technical Clubs, Non -Technical Clubs, and other Institution -approved 
+student development activities. 
+The attendance and participation records for these activities shall be maintained by the 
+respective Faculty Coordinator / Club Coordinator and shall be submitted to the Office 
+of the Controller of Examinations at the end of ea ch semester, and in any case before 
+the commencement of the Semester End Examinations of Semesters I to IV. 
+Successful completion of the prescribed 40 hours of Personality and Character 
+Development activities shall be a mandatory requirement for the award of the degree. 
+ 
+19 DISCIPLINE 
+ 
+Every student shall abide by the rules, regulations, policies, and codes of conduct 
+prescribed by the Institution and the affiliating University, as amended from time to 
+time. Any violation of the rules, regulations, policies, or codes of conduct shall be dealt 
+with in accordance with the procedures and disciplinary regulations in force. 
+ 
+20 MALPRACTICE  
+ 
+A student who indulges in any form of malpractice, misconduct, impersonation, use of 
+unfair means, or violation of examination regulations during Continuous Internal 
+Assessments, Semester End Examinations, practical examinations, project evaluations, 
+or any other academic activity shall be liable for disciplinary and punitive action as 
+prescribed by the Institution and/or the affiliating University from time to time. 
+The decision of the competent authority with respect to malpractice cases shall be final 
+and binding. 
+
+--- PAGE 39 ---
+B.E. / B.Tech. Rules and Regulations 2026 
+                                                                                                                    Approved in 32nd Academic Council Meeting 
+39 
+ 
+ 
+21 REVISION OF REGULATIONS, CURRICULUM AND SYLLABI 
+ 
+The Institution reserves the right to revise, amend, modify, or change these Regulations, 
+Curriculum, Syllabi, Scheme of Assessment, Examination System, Credit 
+Requirements, and any other academic provisions from time to time, based on the 
+recommendations of the Academic Council and/or in compliance w ith the guidelines, 
+regulations, directives, or notifications issued by the University Grants Commission 
+(UGC), All India Council for Technical Education (AICTE), the Affiliating University, 
+Government of Tamil Nadu, or any other statutory authority. 
+Such amendments, modifications, or changes shall take effect from the date specified 
+by the competent authority and shall be applicable to such batches of students, including 
+those already undergoing the programme, as may be decided by the Academic Council 
+and approved by the appropriate authority. 

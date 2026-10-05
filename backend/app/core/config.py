@@ -32,13 +32,20 @@ class Settings(BaseSettings):
     # Secret keys (loaded securely from env)
     GEMINI_API_KEY: str = ""
 
-    # Gemini Embedding Configuration
-    EMBEDDING_MODEL: str = "text-embedding-004"
+    # Gemini Embedding & Generation Configuration
+    EMBEDDING_MODEL: str = "gemini-embedding-2"
+    GEMINI_GENERATION_MODEL: str = "gemini-3.5-flash"
 
     # Dataset & ChromaDB Storage
     DATASET_DIRECTORY: str = str(DEFAULT_DATASET_DIR)
     CHROMA_PERSIST_DIRECTORY: str = str(DEFAULT_CHROMA_DIR)
-    CHROMA_COLLECTION_NAME: str = "campusai_institutional_knowledge"
+    CHROMA_COLLECTION_NAME: str = "campusai_institutional_knowledge_gemini"
+    RAG_COLLECTION_NAME: str = "campusai_institutional_knowledge_gemini"
+    EXPECTED_EMBEDDING_DIM: int = 768
+
+    # RAG Retrieval & Prompt Settings
+    RAG_TOP_K: int = 5
+    RAG_SIMILARITY_THRESHOLD: float = 0.72
 
     # Chunking Parameters
     CHUNK_SIZE: int = 700

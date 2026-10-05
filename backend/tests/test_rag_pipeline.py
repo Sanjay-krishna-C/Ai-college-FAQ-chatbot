@@ -64,21 +64,26 @@ class TestRAGPipeline(unittest.TestCase):
         """Verify that ChromaDB upsert is idempotent and does not create duplicates."""
         test_store = ChromaVectorStore(
             persist_dir=str(Path(settings.CHROMA_PERSIST_DIRECTORY) / "test_store"),
-            collection_name="test_idempotency_collection"
+            collection_name="test_gemini_idempotency_collection"
         )
         sample_page = self.extractor.extract_document(self.dataset_dir / "Amendments_R2022_32-ACM.pdf")[0]
         sample_chunks = self.chunker.chunk_page(sample_page)
 
+        # Create mock 768-dimensional vectors to test Gemini dimension handling & idempotency
+        mock_embeddings = [[0.01 * (i + 1)] * 768 for i in range(len(sample_chunks))]
+
         # First upsert
-        count_first = test_store.upsert_chunks(sample_chunks)
+        count_first = test_store.upsert_chunks(sample_chunks, embeddings=mock_embeddings)
         initial_total = test_store.collection.count()
         self.assertEqual(count_first, len(sample_chunks))
 
-        # Second upsert with identical chunks
-        count_second = test_store.upsert_chunks(sample_chunks)
+        # Second upsert with identical chunks and embeddings
+        count_second = test_store.upsert_chunks(sample_chunks, embeddings=mock_embeddings)
         subsequent_total = test_store.collection.count()
 
         self.assertEqual(initial_total, subsequent_total, "ChromaDB count doubled! Idempotency failed.")
+        stats = test_store.get_stats()
+        self.assertEqual(stats["embedding_dimension"], 768, "Expected 768 embedding dimension.")
 
 
 if __name__ == "__main__":
